@@ -1,0 +1,14 @@
+{
+  "name": "tarea8",
+  "version": "1.0.0",
+  "description": "Experimentando con particulas y webgl",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omar Fernando Solis Carvajal",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
